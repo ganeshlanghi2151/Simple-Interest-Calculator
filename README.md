@@ -1,11 +1,11 @@
 # Simple Interest Calculator
 
-A simple web-based calculator that computes simple interest based on user inputs for Principal, Rate of Interest, and Time (in years).
+A simple script to calculate simple interest given principal, rate of interest, and time period in years.
 
 ## Application Features
-- Input principal amount, interest rate slider, and tenure in years.
-- Calculates total simple interest and the future total amount.
-- Displays highlighted results directly on the webpage.
+- Takes user input for principal amount, rate of interest, and time period.
+- Computes simple interest using the formula: `Interest = (P * T * R) / 100`.
+- Outputs the calculated simple interest clearly to the terminal.
 
-## How to Run
-Open `index.html` in any web browser to use the calculator.
+## Output
+Calculates and displays the simple interest value based on provided parameters.
